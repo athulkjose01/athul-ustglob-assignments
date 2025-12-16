@@ -9,3 +9,6 @@ do
 done
 
 echo "Reversed number: $rev"
+
+
+#finished scripting
